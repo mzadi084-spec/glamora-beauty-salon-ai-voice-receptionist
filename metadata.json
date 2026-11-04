@@ -1,0 +1,6 @@
+{
+  "name": "Glamora Beauty Salon – AI Voice Receptionist",
+  "description": "Bella, the warm and professional AI voice receptionist for Glamora Beauty Salon in Lahore. Speaks English, Urdu, and Roman Urdu to book, reschedule, and cancel appointments, and share service menus and special offers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
